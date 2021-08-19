@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @simonblund
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodejs
+
 - 📫 You can reach me on twitter @simonblunds
 
 <!---
